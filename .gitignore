@@ -3,7 +3,15 @@
 /Data/Lib
 /Data/Local
 /Data/Log
+/Data/Packages/backrefs
+/Data/Packages/markupsafe
+/Data/Packages/mdpopups
+/Data/Packages/pygments
+/Data/Packages/pymdownx
 /Data/Packages/pyte
+/Data/Packages/python-jinja2
+/Data/Packages/python-markdown
+/Data/Packages/pyyaml
 /Data/Packages/pywinpty
 /Data/Packages/wcwidth
 /Data/Packages/zzz A File Icon zzz
