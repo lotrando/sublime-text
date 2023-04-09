@@ -3,6 +3,9 @@
 /Data/Lib
 /Data/Local
 /Data/Log
+/Data/Packages/pyte
+/Data/Packages/pywinpty
+/Data/Packages/wcwidth
 /Lib/
 /Packages/
 vcruntime140.dll
