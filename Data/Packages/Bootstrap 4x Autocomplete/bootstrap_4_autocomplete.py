@@ -7,7 +7,7 @@ class Bootstrap43Completions(sublime_plugin.EventListener):
 
     def __init__(self):
 
-        self.class_completions = [("%s \tBootstrap class" % s, s) for s in bootstrap_441_classes]
+        self.class_completions = [("%s \tBootstrap Class" % s, s) for s in bootstrap_441_classes]
 
     def on_query_completions(self, view, prefix, locations):
 

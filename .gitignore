@@ -1,4 +1,5 @@
 /Data/Cache
+/Data/Index/
 /Data/Installed Packages
 /Data/Lib
 /Data/Local
@@ -15,7 +16,7 @@
 /Data/Packages/pywinpty
 /Data/Packages/wcwidth
 /Data/Packages/zzz A File Icon zzz
-/Data/Index/
+/Data/Packages/User/Color Highlight.cache
 /Lib/
 /Packages/
 vcruntime140.dll
