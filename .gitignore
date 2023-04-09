@@ -4,16 +4,22 @@
 /Data/Lib
 /Data/Local
 /Data/Log
+/Data/Package Storage
 /Data/Packages/backrefs
+/Data/Packages/bracex
+/Data/Packages/lsp_utils
 /Data/Packages/markupsafe
 /Data/Packages/mdpopups
+/Data/Packages/pathlib
 /Data/Packages/pygments
 /Data/Packages/pymdownx
 /Data/Packages/pyte
 /Data/Packages/python-jinja2
 /Data/Packages/python-markdown
 /Data/Packages/pyyaml
+/Data/Packages/sublime_lib
 /Data/Packages/pywinpty
+/Data/Packages/wcmatch
 /Data/Packages/wcwidth
 /Data/Packages/zzz A File Icon zzz
 /Data/Packages/User/Color Highlight.cache

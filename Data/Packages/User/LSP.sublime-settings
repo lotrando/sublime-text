@@ -1,0 +1,9 @@
+{
+    "lsp_format_on_save": true,
+    "diagnostics_gutter_marker": "dot",
+    "popup_max_characters_height": 500,
+    "lsp_code_actions_on_save": {
+        "source.fixAll": true,
+        "source.organizeImports": true,
+  },
+}
