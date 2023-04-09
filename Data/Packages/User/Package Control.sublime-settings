@@ -5,8 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Bootstrap 4x Autocomplete",
 		"Emmet",
 		"Package Control",
+		"PHP Companion",
+		"Tailwind CSS",
+		"Tailwind CSS Autocomplete",
 		"Terminus",
 	],
 }

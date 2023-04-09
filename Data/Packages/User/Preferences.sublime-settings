@@ -8,14 +8,13 @@
 		"ss01",
 		"gray_antialias"
 	],
-	"line_numbers": false,
 	"highlight_gutter": false,
 	"margin": 0,
 	"tab_size": 2,
 	"caret_style": "phase",
 	"caret_extra_top": 2,
 	"caret_extra_bottom": 2,
-	"caret_extra_width": 2,
+	"caret_extra_width": 3,
 	"match_selection": false,
 	"line_padding_top": 5,
 	"line_padding_bottom": 5,
@@ -25,8 +24,13 @@
 	"show_sidebar_button": false,
 	"hot_exit": "disabled",
 	"remember_full_screen": true,
-	"ignored_packages":
-	[
+	"folder_exclude_patterns": [
+		".git",
+		".idea",
+		"node_modules",
+		"storage/framework"
+	],
+	"ignored_packages": [
 		"Vintage",
 	],
 }
