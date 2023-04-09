@@ -1,0 +1,28 @@
+{
+	"font_face": "JetBrains Mono Semibold",
+	"font_size": 14,
+	"font_options": [
+		"no_bold",
+		"no_italic",
+		"dlig",
+		"ss01",
+		"gray_antialias"
+	],
+	"line_numbers": false,
+	"highlight_gutter": false,
+	"margin": 0,
+	"tab_size": 2,
+	"caret_style": "phase",
+	"caret_extra_top": 2,
+	"caret_extra_bottom": 2,
+	"caret_extra_width": 2,
+	"match_selection": false,
+	"line_padding_top": 5,
+	"line_padding_bottom": 5,
+	"trim_trailing_white_space_on_save": "all",
+	"file_tab_style": "angled",
+	"hide_new_tab_button": true,
+	"show_sidebar_button": false,
+	"hot_exit": "disabled",
+	"remember_full_screen": true,
+}
