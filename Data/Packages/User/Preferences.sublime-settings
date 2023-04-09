@@ -25,4 +25,8 @@
 	"show_sidebar_button": false,
 	"hot_exit": "disabled",
 	"remember_full_screen": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
