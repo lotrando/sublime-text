@@ -1,0 +1,20 @@
+/Data/Cache
+/Data/Installed Packages
+/Data/Lib
+/Data/Local
+/Data/Log
+/Lib/
+/Packages/
+vcruntime140.dll
+update_installer.exe
+sublime_text.exe
+subl.exe
+python38.dll
+python33.dll
+plugin_host-3.8.exe
+plugin_host-3.3.exe
+msvcr100.dll
+libssl-1_1-x64.dll
+libcrypto-1_1-x64.dll
+changelog.txt
+crash_reporter.exe
