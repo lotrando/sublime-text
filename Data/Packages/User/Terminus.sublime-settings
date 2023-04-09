@@ -1,7 +1,7 @@
 {
   "default_config": {
     "windows": "gitbash",
-    "linux": "zsh"
+    "linux": "zsh",
   },
   "shell_configs": [
     {
@@ -10,7 +10,7 @@
       "cmd": ["C:\\Program Files\\Git\\bin\\bash.exe", "--login", "-l"],
       "env": {},
       "enable": true,
-      "platforms": ["windows"]
+      "platforms": ["windows"],
     },
     {
       "name": "zsh",
@@ -18,7 +18,7 @@
       "cmd": "zsh",
       "env": {},
       "enable": true,
-      "platforms": ["linux"]
+      "platforms": ["linux"],
     }
   ],
   "256color": true,
@@ -29,9 +29,9 @@
   "min_columns": 20,
   "max_columns": 420,
   "natural_keyboard": true,
-  "theme": "adaptive",
+  "theme": "one-dark",
   "view_settings": {
     "font_face": "JetBrains Mono Semibold",
-    "font_size": 13
-  }
+    "font_size": 10,
+  },
 }

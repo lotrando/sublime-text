@@ -3,11 +3,11 @@
 	"font_size": 13,
 	"font_options": [
 		"no_bold",
-		"no_italic",
 		"dlig",
 		"ss01",
 		"gray_antialias"
 	],
+	"line_numbers": false,
 	"highlight_gutter": false,
 	"margin": 0,
 	"tab_size": 2,
@@ -33,8 +33,8 @@
 	"ignored_packages": [
 		"Vintage",
 	],
-	"color_scheme": "auto",
-	"theme": "auto",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"theme": "One Dark.sublime-theme",
 	"dark_theme": "Default Dark.sublime-theme",
 	"light_theme": "Default Dark.sublime-theme",
 	"dark_color_scheme": "Mariana.sublime-color-scheme",
