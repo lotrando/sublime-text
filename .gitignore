@@ -18,6 +18,7 @@
 /Data/Packages/python-jinja2
 /Data/Packages/python-markdown
 /Data/Packages/pyyaml
+/Data/Packages/requests
 /Data/Packages/sublime_lib
 /Data/Packages/Theme - One Dark
 /Data/Packages/pywinpty
@@ -40,3 +41,4 @@ libssl-1_1-x64.dll
 libcrypto-1_1-x64.dll
 changelog.txt
 crash_reporter.exe
+.gitignore
