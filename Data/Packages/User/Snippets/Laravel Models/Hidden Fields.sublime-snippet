@@ -2,19 +2,16 @@
     <content>
         <![CDATA[
 /**
-* ${1:Description}
+ * The attributes that should be hidden for serialization.
 *
-* @return ${2:Type}
+* @var array<int, string>
 */
-private function ${3:[METHOD_NAME]}(${4})
-{
-	${5://}
-}
-${0}
+protected \$hidden = ['${1:FIELD}'];
+
 ]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>pmet</tabTrigger>
+    <tabTrigger>hid</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
 </snippet>

@@ -1,12 +1,20 @@
 <snippet>
-	<content><![CDATA[
-protected function ${1:[METHOD_NAME]}(${2})
+    <content>
+        <![CDATA[
+/**
+* ${1:Description}
+*
+* @return ${2:Type}
+*/
+protected function ${3:[METHOD_NAME]}(${4})
 {
-	${3://}
+	${5://}
 }
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>prmet</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+${0}
+]]>
+    </content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>prmet</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
 </snippet>

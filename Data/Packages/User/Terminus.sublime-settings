@@ -1,26 +1,28 @@
 {
-  "default_config": {
+  "default_config":
+  {
     "windows": "gitbash",
     "linux": "zsh",
   },
   "shell_configs": [
-    {
-      "name": "gitbash",
-      "title": "GitBash",
-      "cmd": ["C:\\Program Files\\Git\\bin\\bash.exe", "--login", "-l"],
-      "env": {},
-      "enable": true,
-      "platforms": ["windows"],
-    },
-    {
-      "name": "zsh",
-      "title": "ZSH",
-      "cmd": "zsh",
-      "env": {},
-      "enable": true,
-      "platforms": ["linux"],
-    }
-  ],
+  {
+    "name": "gitbash",
+    "title": "GitBash",
+    "cmd": ["C:\\Program Files\\Git\\bin\\bash.exe", "--login", "-l"],
+    "env":
+    {},
+    "enable": true,
+    "platforms": ["windows"],
+  },
+  {
+    "name": "zsh",
+    "title": "ZSH",
+    "cmd": "zsh",
+    "env":
+    {},
+    "enable": true,
+    "platforms": ["linux"],
+  }],
   "256color": true,
   "brighten_bold_text": true,
   "unix_term": "xterm-256color",
@@ -30,8 +32,10 @@
   "max_columns": 420,
   "natural_keyboard": true,
   "theme": "one-dark",
-  "view_settings": {
+  "view_settings":
+  {
     "font_face": "JetBrains Mono Semibold",
     "font_size": 10,
+    "padding": 0,
   },
 }

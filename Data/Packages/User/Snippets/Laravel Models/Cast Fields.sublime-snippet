@@ -2,19 +2,16 @@
     <content>
         <![CDATA[
 /**
-* ${1:Description}
-*
-* @return ${2:Type}
-*/
-private function ${3:[METHOD_NAME]}(${4})
-{
-	${5://}
-}
-${0}
+ * The attributes that should be cast.
+ *
+ * @var array<string, string>
+ */
+protected \$casts = ['${1:FIELD}'];
+
 ]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>pmet</tabTrigger>
+    <tabTrigger>cas</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
 </snippet>
